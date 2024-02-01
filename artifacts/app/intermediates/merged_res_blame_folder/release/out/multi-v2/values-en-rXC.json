@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.study_buddy.app-mergeReleaseResources-14:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/home/runner/.gradle/caches/transforms-3/41622d37b731aa69d1cf8b3c0bc5ad61/transformed/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    }
+                },
+                {
+                    "source": "/home/runner/.gradle/caches/transforms-3/fa4fb2a8372e72f5c5be2d4ab2f5aab0/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "867",
+                        "endColumns": "203",
+                        "endOffsets": "1066"
+                    }
+                }
+            ]
+        }
+    ]
+}
