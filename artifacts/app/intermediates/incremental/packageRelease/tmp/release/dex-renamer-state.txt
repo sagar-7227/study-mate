@@ -1,4 +1,4 @@
-#Fri Feb 02 04:09:18 UTC 2024
+#Fri Feb 02 05:12:54 UTC 2024
 base.0=/home/runner/work/study-mate/study-mate/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
