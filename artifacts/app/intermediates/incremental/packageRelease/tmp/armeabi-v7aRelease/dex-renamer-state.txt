@@ -1,4 +1,0 @@
-#Thu Feb 01 18:14:59 UTC 2024
-base.0=/home/runner/work/study-mate/study-mate/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
