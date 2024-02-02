@@ -30,7 +30,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           artifacts: "build/app/outputs/apk/release/*"
-          tag: "v$(date +'%Y%m%d%H%M%S')"
+          tag: "v${{ github.run_number }}"
           token: ${{ secrets.TOKEN }}
 
       # Aritfact copy
